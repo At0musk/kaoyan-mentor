@@ -2,8 +2,6 @@
 
 <img src="assets/banner.svg" alt="kaoyan-mentor —— 考研长期陪跑规划导师 Agent Skill" width="100%"/>
 
-# kaoyan-mentor
-
 **考研长期陪跑规划导师 · [Agent Skill](https://agentskills.io)**
 
 一个装进任意 skills 兼容 runtime（Claude Code / ZCode / Codex 等）的考研陪跑 agent：不只是回答考研问题，而是运行一个**从建档到上岸的完整闭环**。
